@@ -19,18 +19,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anggadk01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!--
-## Certifications
-- Dicoding [Menjadi Android Developer Expert](https://www.dicoding.com/certificates/EYX427QQ5ZDL)
-- Dicoding [Belajar Android Jetpack Pro](https://www.dicoding.com/certificates/1OP8L922LZQK)
-- Dicoding [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/EYX476O1JXDL)
-- Dicoding [Belajar Prinsip Pemrogaman SOLID](https://www.dicoding.com/certificates/N72ZDGNDQZYW)
-- Dicoding [Belajar Membuat Aplikasi Android Untuk Pemula](https://www.dicoding.com/certificates/2VX32JD6NPYQ)
-- Dicoding [Memulai Pemrogaman Dengan Kotlin](https://www.dicoding.com/certificates/1OP8DWY58PQK)
-- Dicoding [Memulai Pemrogaman Dengan Java](https://www.dicoding.com/certificates/NVP7K1E5RZR0)
-- Dicoding [Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/N9ZO77678ZG5)
-- EF SET English Certificate [C1 Advanced](https://efset.org/cert/ZvWTUz)
 
 ## Activity Graph
 ![Angga's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anggadk01&hide_border=true&theme=redical)
 **anggadk01/anggadk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
