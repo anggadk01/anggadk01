@@ -1,5 +1,12 @@
-
-<h4 align="center"><samp> Hi everyone 👋🏾  welcome to my Github! <a target="https://anggadk01.github.io/anggadk01-react/" </a> ☮☮☮☁️ </samp></h4>
+<h4 align="center">
+  <samp>
+    Hi everyone 👋🏾 welcome to my Github!
+    <a href="https://anggadk01.github.io/anggadk01-react/" target="_blank" rel="noopener noreferrer">
+      https://anggadk01.github.io/anggadk01-react/
+    </a>
+    ☮☮☮☁️
+  </samp>
+</h4>
 <h3 align="center"><samp> I hope someday you'll join us✌☮ </samp></h3>
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
